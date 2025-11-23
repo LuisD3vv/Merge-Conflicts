@@ -1,2 +1,0 @@
-linea 1 desde la putisima rama main
-aqui le agregue este renglon al archivo desde la rama release
